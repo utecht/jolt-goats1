@@ -1,0 +1,4 @@
+detected_buildpack: Python
+start_command: python server.py
+effective_procfile:
+  web: python server.py
